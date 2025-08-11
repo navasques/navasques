@@ -1,9 +1,7 @@
 ### Seja bem vind_ ao meu perfil 🖖
 
 - 👨 Me chamo Thales de Navasques.
-- 💻 Trabalhando atualmente na empresa Prime IT Solutions, como Devenvolvedor Traine.
-- 🧑‍🎓 Bacharel em Sistemas de Informação pela instituição Faculdades Integradas Rio Branco Granja Viana - FRBGV.
-- 📕 Aprimorando meus conhecimentos em Java, Servelet, Microserviços, SpringBoot, API REST.
+- 💻 Trabalhando atualmente na empresa SIS Innov & Tech
 ##
 
 <div>
