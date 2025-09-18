@@ -1,7 +1,7 @@
 ### Seja bem vind_ ao meu perfil 🖖
 
 - 👨 Me chamo Thales de Navasques.
-- 💻 Trabalhando atualmente na empresa SIS Innov & Tech
+- 💻 Trabalhando atualmente na empresa SIS Innov & Tech como Desenvolvedor RPA
 ##
 
 <div>
